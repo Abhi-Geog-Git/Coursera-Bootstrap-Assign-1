@@ -1,0 +1,19 @@
+{
+  "name": "assgn-1",
+  "version": "1.0.0",
+  "description": "Coursera bootstrap assign -1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhi-Geog-Git/Coursera-Bootstrap-Assign-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhi-Geog-Git/Coursera-Bootstrap-Assign-1/issues"
+  },
+  "homepage": "https://github.com/Abhi-Geog-Git/Coursera-Bootstrap-Assign-1#readme"
+}
